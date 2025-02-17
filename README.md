@@ -15,3 +15,16 @@ loan_status	Loan status (0 is non default 1 is default)
 loan_percent_income	Percent income
 cb_person_default_on_file	Historical default
 cb_preson_cred_hist_length	Credit history length
+
+Key Features Analyzed:
+
+Age, income, home ownership, employment length
+Loan intent, grade, amount, interest rate
+Credit history, past defaults
+Loan repayment status (default vs. non-default)
+Skills Demonstrated:
+
+Data preprocessing and feature engineering
+Predictive modeling for credit risk assessment
+Statistical analysis for risk evaluation
+Classification models for loan default prediction
